@@ -1,6 +1,6 @@
 # https://projecteuler.net/problem=2
 #
-# Sum of all even prime numbers below 4 million
+# Sum of all even Fibonnaci numbers below 4 million
 #
 # SOLVED: 4613732
 
