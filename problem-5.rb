@@ -2,7 +2,7 @@
 #
 # Find the smallest positive number divisible by 1-20
 #
-# ANSWER: 232_792_560
+# SOLVED: 232_792_560
 
 def fully_divisible?(num)
   return false if num % 2 != 0
